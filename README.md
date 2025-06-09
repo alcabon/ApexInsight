@@ -53,8 +53,8 @@ To use `ApexInsight`, you need Node.js (version 18 or higher) and npm (or yarn) 
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/alcabon/apexinsight.git
-cd apexinsight
+git clone https://github.com/alcabon/ApexInsight.git
+cd ApexInsight
 ```
 
 2. **Install dependencies:**
